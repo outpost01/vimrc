@@ -1,0 +1,11 @@
+{
+  "python.pythonPath": "/usr/local/Cellar/python/3.7.3/bin/python3",
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": false,
+  "python.linting.enabled": true,
+  "python.jediEnabled": false,
+  "python.jediPath": "/usr/local/lib/python3.7/site-packages/jedi",
+  "python.autoUpdateLanguageServer": false,
+  "python.formatting.provider": "yapf",
+  "python.analysis.downloadChannel": "stable"
+}
